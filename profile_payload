@@ -1,1 +1,2 @@
-make test || :
+sudo make check || :
+sudo make clean || :

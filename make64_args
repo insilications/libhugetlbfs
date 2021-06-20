@@ -1,0 +1,1 @@
+BUILDTYPE=NATIVEONLY PREFIX=%{_prefix} LIBDIR64=/usr/lib64 LIBDIR32=/usr/lib32 CC32="gcc -m32" ELF32=elf_i386
